@@ -1,6 +1,6 @@
 # Galaxy Clustering with Unsupervised Learning
 
-This project explores clustering galaxy populations from the IllustrisTNG cosmological simulation using multivariate statistical techniques. We focused on identifying meaningful groupings of galaxies based on their physical properties using Functional Data Analysis (FDA), Gaussian Mixture Models (GMM), and Hierarchical Clustering.
+This project explores clustering galaxy populations from the IllustrisTNG cosmological simulation unsupervised learning techniques. We focused on identifying meaningful groupings of galaxies based on their physical properties using Functional Data Analysis (FDA), Gaussian Mixture Models (GMM), and Hierarchical Clustering.
 
 ---
 
